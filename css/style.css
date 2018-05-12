@@ -23,12 +23,16 @@ input[type='button']{font-family:'microsoft yahei','Hiragino Sans GB',Tahoma,Ver
 .fr{float:right;}
 .w1060{width:1060px;margin:0 auto;}
 .tec{text-align:center;}
+.tel { text-align: left; }
+.ter { text-align: right; }
 .fs24{font-size:24px;}
 .fs22{font-size:22px;}
 .fs20{font-size:20px;}
 .fs18{font-size:18px;}
 .fs16{font-size:16px;}
 .fs14{font-size:14px;}
+.fface{ color: #585755;letter-spacing: 0;line-height: 28px; }
+.fftitle { font-family: PingFangSC-Medium;font-size: 20px;color: #585755;letter-spacing: 0; }
 .pad60{padding:60px 0;}
 .padb60{padding-bottom:60px;}
 .linear{-webkit-transition:all .3s linear;-moz-transition:all .3s linear;-ms-transition:all .3s linear;-o-transition:all .3s linear;transition:all .3s linear;}
@@ -108,5 +112,27 @@ input[type='button']{font-family:'microsoft yahei','Hiragino Sans GB',Tahoma,Ver
 .tabs .tab-item { margin-left: 20px; margin-right: 20px; position: absolute; top: 37px;}
 .tabs .tab-item div { float: left; text-align: center; font-size: 24px; letter-spacing: 0; line-height: 28px; margin-right: 10px; cursor: pointer; height: 50px; width: 160px;}
 .tabs .tab-item .active { border-bottom: 2px solid #eaaf37; color: #eaaf37; cursor: pointer;}
-.card { background: #fff; height: 843px; margin: 0 auto; margin-top: 51px;}
-/*.tabs .tabs-nav { padding-left: 20px; padding-right: 20px; float: left; height: 84px;}*/
+.card { background: #fff; height: auto; margin: 0 auto; margin-top: 51px; padding-left: 40px; padding-right: 40px; margin-bottom: 81px;}
+
+.contact-title { padding-top: 46px; }
+.contact-num { font-size: 48px;color: #585755;letter-spacing: 0;line-height: 28px; margin-top: 32px;}
+.contact-address-and-phone { margin-top: 35px; }
+#aboutus-intro p { text-indent: 2em; }
+#aboutus-intro img { width: 70%; margin-top: 50px; margin-bottom: 51px;}
+.evo-line { color: #E5E5E5; }
+.card .c { margin-top: 35px; margin-bottom: 35px; width: 960px; }
+.card .c .date { color: #585755 ; font-family: PingFangSC-Medium; margin-right: 40px;}
+#aboutus-story .aboutus-story-l { height: 360px; }
+#aboutus-story .aboutus-story-l .img { width: 540px; height: 360px; background-image: url('../images/about_jmht.png'); }
+.newsdetail-item .fl .date i { display:inline-block; }
+.newsdetail-item .fl .date i img { width:15px;margin-left:80px;padding-right:7px;vertical-align:sub; }
+.newsdetail-item { margin-top: 42px; }
+
+.join-require { margin: 13px auto; }
+.join-require .box { background: #FFFFFF;border: 1px solid #E5E5E5; width: 250px; height: 334px; padding-top: 41px; padding-left: 50px; padding-right: 50px;}
+.join-require .box p { margin-top: 13px; }
+
+#advantage .fftitle { margin-top: 50px; }
+#advantage .text { margin-top: 10px; }
+
+#support p { margin-top: 20px; }

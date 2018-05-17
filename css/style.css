@@ -32,7 +32,7 @@ input[type='button']{font-family:'microsoft yahei','Hiragino Sans GB',Tahoma,Ver
 .fs16{font-size:16px;}
 .fs14{font-size:14px;}
 .fface{ color: #585755;letter-spacing: 0;line-height: 28px; }
-.fftitle { font-family: PingFangSC-Medium;font-size: 20px;color: #585755;letter-spacing: 0; }
+.fftitle { font-size: 20px;color: #585755;letter-spacing: 0; }
 .pad60{padding:60px 0;}
 .padb60{padding-bottom:60px;}
 .linear{-webkit-transition:all .3s linear;-moz-transition:all .3s linear;-ms-transition:all .3s linear;-o-transition:all .3s linear;transition:all .3s linear;}

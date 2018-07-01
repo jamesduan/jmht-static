@@ -50,8 +50,8 @@ input[type='button']{font-family:'microsoft yahei','Hiragino Sans GB',Tahoma,Ver
 .fullSlide .hd ul li{display:inline-block;width:7px;height:7px;margin:0 8px;cursor:pointer;text-indent:9999em;opacity:.7;border-radius:50%;background:#ccc;filter:progid:DXImageTransform.Microsoft.Alpha(opacity=70);    /*IE6~IE8*/}
 .fullSlide .hd ul .on{position:relative;top:-2px;width:10px;height:10px;opacity:1;filter:progid:DXImageTransform.Microsoft.Alpha(opacity=100);    /*IE6~IE8*/}
 .home-title{font-size:24px;line-height:28px;text-align:center;letter-spacing:0;color:#585755;}
-.home-banner{overflow:hidden; margin-top: 211.78px;}
-.home-header { position:fixed; top:0px; left:0px;z-index: 100000; text-align: center; background-color: white; width: 100%; opacity: 0.95;}
+.home-banner{overflow:hidden; }
+.home-header { text-align: center; background-color: white; width: 100%; }
 .home-header-logo{width:230px;margin:50px auto 40px;}
 .home-header-logo img{width:100%;}
 .home-header-nav{margin-bottom:25px;text-align:center;}
